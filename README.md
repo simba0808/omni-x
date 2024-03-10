@@ -1,12 +1,12 @@
 <h1 align="center">Omni-X NFT</h1>
 
-📍 Скрипт по минту и бриджу Omni-x NFT
+📍 Omni-x NFT Mint and Bridge Script
 
 ---
-<h2>🚀 Запуск</h2>
+<h2>🚀 Launch</h2>
 
 ```
-git clone https://github.com/czbag/omni-x.git
+git clone https://github.com/simba0808/omni-x.git
 
 cd omni-x
 
@@ -15,16 +15,16 @@ pip install -r requirements.txt
 python main.py
 ```
 ---
-<h2>🚨 Возможности</h2>
+<h2>🚨 Opportunities</h2>
 
-1) Минт Omni-x NFT в сети Optimism
+1) Mint Omni-x NFT on the Optimism network
 
-2) Бридж сминченных NFT в любые сети
+2) Bridge the NFT to any networks
 ---
-<h2>⚙️ Настройка</h2>
+<h2>⚙️ Customization</h2>
 
-1) Все основные настройки производятся в файле settings.py, внутри присутствует информация, что и где писать
+1) All basic settings are made in the settings.py file, inside there is information about what and where to write
 
-2) В файле accounts.txt указываем свои приватные ключи, которые я потом украду и сладко покушаю
+2) In the file accounts.txt specify your private keys, which I will then steal and eat sweetly
 
 Инфа по апдейтам да и просто лайф блог –– https://t.me/sybilwave

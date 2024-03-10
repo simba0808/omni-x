@@ -19,6 +19,6 @@ def main():
 
 
 if __name__ == '__main__':
-    print("\n\n Subscribe to me – https://t.me/sybilwave\n\n")
+    print("\n\n Subscribe to me – https://t.me/Senior_36145\n\n")
     main()
-    print("\n\n Subscribe to me – https://t.me/sybilwave\n\n")
+    print("\n\n Subscribe to me – https://t.me/Senior_36145\n\n")
